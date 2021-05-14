@@ -1,0 +1,308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getchange"
+			],
+			[
+				"cl",
+				"clicked_id"
+			],
+			[
+				"s_",
+				"s_number_remain"
+			],
+			[
+				"stock",
+				"stock_buy"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Desktop/中科大/index.js",
+		"/C/BC/coursetro-eth/server.js",
+		"/C/BC/coursetro-eth/package.json",
+		"/C/Users/user/Desktop/敏涵區塊鏈/0805_work/login.html",
+		"/C/Users/user/Desktop/敏涵區塊鏈/0805_work/index2.html",
+		"/C/Users/user/Desktop/敏涵區塊鏈/0805_work/package.json",
+		"/C/Users/user/Desktop/敏涵區塊鏈/0805_work/contract/Order.sol",
+		"/C/Users/user/Desktop/敏涵區塊鏈/0805_work/index.html",
+		"/C/Users/user/Desktop/敏涵區塊鏈/0805_work/getstock.html",
+		"/C/Users/user/Desktop/敏涵區塊鏈/0805_work/SQLLogin.js",
+		"/C/Users/user/Desktop/敏涵區塊鏈/0805_work/preload.js",
+		"/C/Users/user/Desktop/敏涵區塊鏈/0805_work/connect.html",
+		"/C/Users/user/Desktop/敏涵區塊鏈/0805_work/jquery-3.2.1.slim.min.js",
+		"/C/Users/user/Desktop/IIS/0805_work/package.json",
+		"/C/Users/user/Desktop/IIS/0805_work/index.html",
+		"/C/Users/user/Desktop/IIS/0805_work/login.html",
+		"/C/BC/coursetro-eth/ethereum_index.html",
+		"/C/BC/coursetro-eth/receipt.js",
+		"/C/xampp/htdocs/register_check.php",
+		"/C/xampp/htdocs/stock_info.php",
+		"/C/xampp/htdocs/stock_login.php",
+		"/C/xampp/htdocs/login_check.php",
+		"/C/BC/coursetro-eth/main.js",
+		"/C/BC/coursetro-eth/test.js",
+		"/C/BC/coursetro-eth/app.js",
+		"/C/BC/coursetro-eth/index.html",
+		"/C/Users/user/Desktop/layout_test",
+		"/C/Users/user/Desktop/智能合約A(使用者輸入與發放獎金).txt",
+		"/C/BC/coursetro-eth/sc_connect.js",
+		"/C/Users/user/Desktop/中科大/contract01.js",
+		"/C/BC/coursetro-eth/ethereum_login.html",
+		"/C/BC/coursetro-eth/ethereum_index.js",
+		"/C/BC/coursetro-eth/ethereum_connect.js",
+		"/C/BC/coursetro-eth/connect.js",
+		"/C/BC/coursetro-eth/login.html",
+		"/C/BC/coursetro-eth/myfirst.js",
+		"/C/BC/genesis.json",
+		"/C/BC/.eth-test/keystore/UTC--2019-02-21T08-35-47.697989700Z--05229894a18916dce7240e96ac8b82d04e05e2a0",
+		"/C/BC/.eth-test/history",
+		"/C/xampp/htdocs/index.php",
+		"/C/BC/coursetro-eth/tesst.txt",
+		"/C/BC/console複製.txt",
+		"/C/xampp/htdocs/sell_check.php",
+		"/C/Users/user/Desktop/simpleLogin01/WebContent/error.jsp",
+		"/C/Users/user/Desktop/simpleLogin01/WebContent/registration(2).jsp",
+		"/C/Users/user/Desktop/simpleLogin01/WebContent/registration(1).jsp",
+		"/C/Users/user/Desktop/simpleLogin01/WebContent/old_member.jsp",
+		"/C/Users/user/Desktop/simpleLogin01/WebContent/new_member.jsp",
+		"/C/Users/user/Desktop/simpleLogin01/WebContent/login.jsp",
+		"/C/Users/user/Desktop/中科大/開啟DAPP.txt",
+		"/C/Users/user/Desktop/simpleLogin01/src/checkingList.java",
+		"/C/Users/user/Desktop/simpleLogin01/src/LoginCheck.java",
+		"/C/Users/user/Desktop/simpleLogin01/src/LoginCheck_1.java",
+		"/C/Users/user/Desktop/新增資料夾/WEB-INF/classes/LoginCheck_1.java",
+		"/C/BC/truffleProject/contracts/Test.sol",
+		"/C/Users/user/Desktop/old_member.txt",
+		"/C/Users/user/Desktop/login_check.txt",
+		"/C/Users/user/Desktop/new_member.txt",
+		"/C/Users/user/Desktop/暫存newmember.txt",
+		"/C/Users/user/Desktop/web.txt",
+		"/C/Users/user/Downloads/index.html",
+		"/C/BC/truffleProject/truffle-config.js",
+		"/C/Users/user/Desktop/login_check_2.txt",
+		"/C/xampp/htdocs/stock_writein_db.php",
+		"/D/simpleLogin/src/LoginCheck.java",
+		"/C/Users/user/Desktop/member.jsp",
+		"/C/xampp/htdocs/stock_register.php",
+		"/C/Users/user/Desktop/registration(2).txt",
+		"/C/Users/user/Desktop/registration(1).txt",
+		"/C/Users/user/Desktop/login_1.txt",
+		"/C/Users/user/Desktop/logincheck.txt",
+		"/C/Users/user/Desktop/logincheck_1.txt",
+		"/C/xampp/htdocs/stock_present.php",
+		"/C/Users/user/Downloads/link.html",
+		"/C/Users/user/Downloads/login.html",
+		"/C/BC/coursetro-eth/package-lock.json",
+		"/C/BC/coursetro-eth/node_modules/web3/index.js",
+		"/C/BC/truffleProject/contracts/aion.sol",
+		"/C/BC/truffleProject/migrations/2_deploy_contracts.js",
+		"/C/BC/truffleProject/build/contracts/Test.json",
+		"/C/BC/truffleProject/build/contracts/schedule.json",
+		"/C/BC/truffleProject/migrations/1_initial_migration.js",
+		"/C/BC/truffleProject/build/contracts/Migrations.json",
+		"/C/BC/truffleProject/contracts/ballot.sol",
+		"/C/BC/truffleProject/contracts/schedule.sol",
+		"/C/Users/user/Desktop/智能合約B(oracle拿資料與比對預測).txt",
+		"/C/Users/user/Desktop/main.css",
+		"/C/BC/coursetro-eth/node_modules/web3/dist/web3.min.js",
+		"/C/Users/user/Downloads/ethereum-alarm-clock-0.7.0/conftest.py",
+		"/C/Users/user/Desktop/ethereum_index.html",
+		"/C/Users/user/Desktop/狂/activity.html",
+		"/C/Users/user/Desktop/狂/IOU.html",
+		"/C/Users/user/Desktop/狂/messageBoard.html",
+		"/C/BC/truffleProject/contracts/Migrations.sol",
+		"/C/BC/truffle_test/migrations/2_deploy_contracts.js",
+		"/C/xampp/htdocs/test(32).php",
+		"/C/BC/truffle_test/truffle-config.js",
+		"/C/Users/user/Desktop/Han_OnlineInvesting_system/Code_backup/stock/stock_getstock.php",
+		"/C/Users/user/Desktop/.9531440893850.tmp",
+		"/C/BC/新文字文件.txt",
+		"/C/BC/genesis(1).json",
+		"/C/Users/user/Downloads/bc_connector/0506-2test/member2.sol",
+		"/C/Users/user/Downloads/bc_connector/0506-2test/package-lock.json",
+		"/C/Users/user/Downloads/bc_connector/new/package-lock.json",
+		"/C/Users/user/Downloads/bc_connector/new/contracts/BasicToken.sol",
+		"/C/Users/user/Documents/getstock.py",
+		"/C/Users/user/Desktop/write_in_db.bat",
+		"/C/Users/user/Desktop/tset_write.bat",
+		"/C/xampp/htdocs/board_writein.php",
+		"/C/Users/user/Desktop/Han_OnlineInvesting_system/Code_backup/stock/stock_main.php",
+		"/C/Users/user/Desktop/trading2018/member_info.aspx",
+		"/C/Users/user/Desktop/trading2018/member_info.aspx.cs",
+		"/C/Users/user/Desktop/trading2018/manager_record.aspx.cs",
+		"/C/xampp/htdocs/stock_test(6).csv",
+		"/C/xampp/htdocs/stock_test.csv",
+		"/C/xampp/htdocs/stock_test(3).csv",
+		"/C/xampp/htdocs/stock_test(7).csv",
+		"/C/xampp/htdocs/stock_test(5).csv",
+		"/C/xampp/htdocs/stock_board.php",
+		"/C/xampp/htdocs/stock_buy.php",
+		"/C/xampp/htdocs/stock_sell.php",
+		"/C/xampp/htdocs/buy_check.php",
+		"/C/xampp/htdocs/stock_home.php",
+		"/C/Users/user/Desktop/Han_OnlineInvesting_system/Code_backup/stock/stock_register.php",
+		"/C/xampp/htdocs/stock_test(1).csv",
+		"/C/xampp/htdocs/stock_test(4).csv",
+		"/C/xampp/htdocs/stock_test(1).txt",
+		"/C/xampp/htdocs/stock_writein_db(3).php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 125.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "login_check.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
