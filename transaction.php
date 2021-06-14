@@ -12,7 +12,7 @@
 
 <?php 
 	//session_start();
-	$db = mysqli_connect("localhost", "root","password", "stock");
+	$db = mysqli_connect("localhost", "root","", "stock");
 	mysqli_set_charset($db,"utf8");
 	$unsuccess_data=mysqli_query($db,"select * from unsuccessful"); 
 	date_default_timezone_set("Asia/Taipei");

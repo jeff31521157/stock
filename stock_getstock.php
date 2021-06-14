@@ -13,7 +13,7 @@
 	date_default_timezone_set("Asia/Taipei");
 	$today = date('Y-m-d');
 	$date_string = str_replace('-', '', $today);
-    $connect = mysqli_connect("localhost", "root","password", "stock"); //Connect PHP to MySQL Database
+    $connect = mysqli_connect("localhost", "root","", "stock"); //Connect PHP to MySQL Database
     mysqli_set_charset($connect,"utf8");
     $path = 'C:\\Users\\user\\Desktop\\getstock\\'; 
 	$json = 'stock.json';

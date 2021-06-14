@@ -4,7 +4,7 @@
 if(!isset($_POST["login"])){
   exit("錯誤執行");
   }//檢測是否有submit操作 
-  $db = mysqli_connect("localhost", "root","password", "stock");
+  $db = mysqli_connect("localhost", "root","", "stock");
   $id = $_POST['id'];//post獲得用戶名表單值
   $passowrd = $_POST['password'];//post獲得用戶密碼單值
   echo $id;

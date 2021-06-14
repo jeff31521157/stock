@@ -13,15 +13,15 @@
 		background: #000 url("./stock_background.png") center center fixed no-repeat;
 		-moz-background-size: cover;
 		background-size: cover;
-	}		
+	}
 	</style>
 </head>
 <body background="trade_background.jpg">
 <body>
 	<div id='cssmenu'>
 		<ul>
-			<!--<li class='has-sub'><a href="main_new.php">+register</a>
-	    	</li>-->
+			<li class='has-sub'><a href="main_new.php">+register</a>
+	    	</li>
     	</ul>
     </div>
     <center><br/><br/><br/>
@@ -42,10 +42,10 @@ unset($_SESSION["login_session"]);
 		<br/><br/>
 		密碼：<input type="password" name="password" size="20"/>
 		<br/><br/>
-    
+
 		<input type="submit" name="login" value="登入" style="width:70px;height:25px;border:3px orange double;font-size:15px;">
 	</form>
-	
+
     <br/><br/><br/><br/>
     <h2><span>聯絡窗口</span></h2>
 	<Big>任何系統問題請詢問此窗口:</Big>

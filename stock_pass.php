@@ -1,6 +1,6 @@
 <?php
 session_start();
-$db = mysqli_connect("localhost", "root","password", "stock");
+$db = mysqli_connect("localhost", "root","", "stock");
 mysqli_set_charset($db,"utf8");
 $user_idd = $_SESSION["user_id"];
 $good=mysqli_query($db,"SELECT username FROM user WHERE id = '".$user_idd."'");
